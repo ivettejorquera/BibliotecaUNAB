@@ -14,7 +14,7 @@ import java.io.IOException;
 public class Principal {
     public static void main (String[] args) throws IOException {
         
-
+        //prueba de lo que sea    
         cargar_archivos(); //enabled / disabled
         try{
             //Leer los objetos clientes desde clientes.dat y los guarda en el arreglo arrCli
